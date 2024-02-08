@@ -1,10 +1,27 @@
 参考：
-https://mrradiology.hatenablog.jp/entry/2023/11/12/164458
-
+https://www.shakacode.com/react-on-rails/docs/guides/tutorial/
+※Ubuntu環境
 Ruby
 https://rubyinstaller.org/downloads/
 Ruby on Rails downloads
 管理者権限で　gem update --system
               gem install rails
+/---*用語*---/
+Shakepacker　Webpackerの後継。
+Webpacker 　　CSS、JavaScript、画像などを１つのファイルとしてまとめるためのモジュール
+            　バンドラーで、node.jsのモジュールの1つ
+モジュールバンドラー　ウェブアプリケーションの開発において、複数のモジュールやファイル
+                    　をまとめて1つのファイルに結合するツール
+バンドル    複数のファイルやリソースのまとまり
+
+/---*programming syntax for js and jsx*---/
+EXECJS_RUNTIME=Node //RubyスクリプトからJsのコード実行できる。
 
 
+
+/---*2024/02/08~ React_Typescript.txtから英語続き。*---/
+Reveal(リベアル)動詞：　N:隠されたものを公開する。　明かす、明らかにする、正体を表す。見せる。
+Bundle(バンドル)動詞：　包む、束ねる
+Without(ウィショウト)　前置詞　コア：..なしで　「もっていないとか」　：...がなく、※...がなければ
+熟語
+Without A ：　Aがなければ
