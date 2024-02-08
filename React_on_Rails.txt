@@ -5,9 +5,16 @@ Ruby
 https://rubyinstaller.org/downloads/
 Rails 概要
 https://railstutorial.jp/chapters/beginning?version=3.2
+公式doc
+https://guides.rubyonrails.org/getting_started.html
 Ruby on Rails downloads
 管理者権限で　gem update --system
               gem install rails
+
+/---*Rails doc memo*---/
+doc for https://guides.rubyonrails.org/getting_started.html#creating-a-new-rails-project
+繰り返しをしない。　同じ情報を何度も書かないことで、コードの保守性、拡張性が向上し、バグが少なくなります。
+設定よりも規約　　　
 
 /---*用語*---/
 Shakepacker　Webpackerの後継。
